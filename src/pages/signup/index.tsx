@@ -214,7 +214,7 @@ export default function AgentraAuthPage() {
             transition={{ duration: 0.8, delay: 0.35 }}
             className="text-xl xl:text-2xl text-orange-50/90 max-w-2xl text-center leading-relaxed mb-12"
           >
-            Next-gen AI automation • Intelligent agents • Enterprise-grade security • Built for scale
+            Next-gen AI Powered Quiz API • Intelligent • Enterprise-grade security • Built for scale
           </motion.p>
 
           <motion.div

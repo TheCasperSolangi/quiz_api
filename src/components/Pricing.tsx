@@ -53,7 +53,7 @@ const Pricing = () => {
   const navigate = useNavigate();
 
   const handleGetStarted = () => {
-    navigate("/get-started");
+    navigate("/signup");
   };
 
   return (
